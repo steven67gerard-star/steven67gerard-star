@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a de-centralized business platform that can be automated and function monetarily apart from a centralized bank and secure enough to be no-KYC
 - 📫 How to reach me at this point is through this GitHub program until I learn secure ways to communicate directly
 - 😄 Pronouns: ...
-- ⚡ Fun fact: By trade I am a carpenter, I also have an Architect degree, combining those two, I love to design and build breathe-taking dream kitchens, and I want to custom build, or assemble components to automate a website so I can take care of people who want kitchen cabinetry
+- ⚡ Fun fact: By trade I am a carpenter, I also have an Architect degree, combining those two, I love to design and build breathe-taking dream kitchens, and I want to custom build, or stack applications to automate a website, preferably using AI (I have a great idea) so I can take care of people who want kitchen cabinetry
 
 <!---
 steven67gerard-star/steven67gerard-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
